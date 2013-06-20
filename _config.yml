@@ -2,12 +2,13 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://www.adamgeorge.com
+title: Adam George - Software Contractor & Freelance Developer, Melbourne Area
+heading: Freelance Developer
+subtitle: Ruby on Rails, Javascript, Front-end Dev, HTML5, Mobile
+author: Adam George
 simple_search: http://google.com/search
-description:
+description: I'm an experienced contract and freelance software developer, servicing the Melbourne area. With over 10 years experience developing and designing software, I can help deliver your next software project successfully.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -19,7 +20,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: hello@adamgeorge.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -63,14 +64,17 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: asgeo1
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: asgeo1
 twitter_tweet_button: true
+
+stackoverflow_userid: 172973
+stackoverflow_user: asgeo1
 
 # Google +1
 google_plus_one: false
@@ -90,7 +94,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: asgeo1
 disqus_show_comment_count: false
 
 # Google Analytics
@@ -98,3 +102,5 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
+
+s3bucket: s3://www.adamgeorge.com
