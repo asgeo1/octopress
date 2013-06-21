@@ -13,5 +13,6 @@ sass/
 !source/
 source/*
 !source/_posts/
+!source/index.markdown
 vendor
 node_modules
