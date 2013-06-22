@@ -14,5 +14,6 @@ sass/
 source/*
 !source/_posts/
 !source/index.markdown
+!source/404.html
 vendor
 node_modules
