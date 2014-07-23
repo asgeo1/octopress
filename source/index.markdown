@@ -20,8 +20,8 @@ I've been working as a programmer for over 10 years, completing projects in a
 multitude of industries (energy, transport, digital design to name a few).
 
 I've experienced all aspects of the software development lifecycle, from
-gathering requirements, analysis and design - through to building, testing,
-deploying and supporting software systems.
+**gathering requirements**, **analysis and design** - through to **building**, **testing**,
+**deploying** and **supporting** software systems.
 
 I have the experience to help make your next software project a successful one.
 
@@ -64,7 +64,7 @@ project:
 --------------------------------------------------------------------------------
 ## Skills and Experience
 
-I've worked as a software developer for over 10 years, working with many
+I've worked as a web developer for over 10 years, working with many
 different technologies. I'm a good fit for many projects, as I have a breadth
 of knowledge across many technology stacks, but are also pretty focused around
 modern web development practices.
