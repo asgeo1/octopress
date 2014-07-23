@@ -1,17 +1,20 @@
 ---
 layout: page
-title: "Need to hire a freelance developer?"
 date: 2013-06-18 07:41
 comments: true
 sharing: true
 footer: true
 ---
 
+# Need to hire a freelance developer?
+
 You've come to the right place then! I may be available at the moment and would
-love to hear from you.
+<a href="mailto:{{site.email}}?subject=hello">love to hear from you</a>.
 
 --------------------------------------------------------------------------------
 ## About myself:
+
+I'm a freelance web &amp; software developer, servicing the Melbourne area.
 
 I've been working as a programmer for over 10 years, completing projects in a
 multitude of industries (energy, transport, digital design to name a few).
@@ -78,8 +81,9 @@ These days I tend to focus in a few key areas:
     for my clients who are looking to not write the same app multiple times.
 
     I use best practices for Javascript development, utilising tools like
-    [Grunt][5], [Bower][6] and [Yeoman][7]. I'm a fan of [jQuery Mobile][8] and
-    use that regularly as a mobile UI web framework.
+    [Grunt][5], [Bower][6] and [Yeoman][7]. I'm a fan of [Ionic Framework][19]
+    and [jQuery Mobile][8], using them to quickly build HTML5 mobile user
+    interfaces.
 
  *  **Backend web development**. I've built many web apps over the years,
     in different backend technologies:
@@ -120,3 +124,4 @@ Adam George
 [16]: http://www.mongodb.org
 [17]: http://www.parse.com
 [18]: http://framework.zend.com
+[19]: http://ionicframework.com
