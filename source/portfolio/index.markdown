@@ -13,6 +13,32 @@ Examples of work I have done for my clients (not including projects under NDA)
 --------------------------------------------------------------------------------
 ## 2014:
 
+### Deakin Uni Open Day 2014 AR
+
+A client of mine who specialize in
+<a href="http://en.wikipedia.org/wiki/Augmented_reality">Augmented Reality</a>
+solutions, engaged me to build the iOS version of the
+<a href="https://itunes.apple.com/au/app/deakin-uni-open-day-2014-ar/id893009544?mt=8">Deakin Uni Open Day 2014 AR</a>
+app.
+
+<div style="width:320px; height:568px; background-image:url(/assets/images/deakin-ar-explore.jpeg); background-repeat: no-repeat; background-size:100%; display:inline-block; margin-right: 20px;">
+</div>
+
+<div style="width:320px; height:568px; background-image:url(/assets/images/deakin-ar-scan.jpeg); background-repeat: no-repeat; background-size:100%; display:inline-block;">
+</div>
+
+The app uses a hybrid approach. Most of the screens were developed in native iOS,
+but there was also some use of HTML5 and Javascript to interact with the
+<a href="http://www.metaio.com/sdk/">Metaio SDK</a>, which was utilized in
+implementing the Augmented Reality features.
+
+The app was successfully used on the Deakin Open Day by students, who used the
+AR features to navigate, learn, and enhance their Open Day experience.
+
+
+--------------------------------------------------------------------------------
+## 2014:
+
 ### SageFIELDOPs
 
 A client with an existing web-based product in the safety-permit space, needed
