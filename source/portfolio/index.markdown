@@ -9,6 +9,33 @@ footer: true
 
 Examples of work I have done for my clients (not including projects under NDA)
 
+--------------------------------------------------------------------------------
+## 2015:
+
+### Ironman 4x4 Website and Content Management System
+
+I was the developer for the <a href="http://www.ironman4x4.com">Ironman 4x4 website</a>,
+which I was hired as a subcontractor for one of my design agency clients.
+
+The website was built using <strong>Ruby on Rails</strong>, and makes use of the
+<a href="http://refinerycms.com">Refinery CMS</a> ruby gem to build out the
+<strong>Content Management System</strong> (CMS) component.
+
+<div style="width:320px; height:458px; background-image:url(/assets/images/ironman4x4-homepage.jpg); background-repeat: no-repeat; background-size:100%; display:inline-block; margin-right: 20px; vertical-align: top;">
+</div>
+
+<div style="width:320px; height:492px; background-image:url(/assets/images/ironman4x4-bullbars.jpg); background-repeat: no-repeat; background-size:100%; display:inline-block;">
+</div>
+
+This website required a lot more than just editing pages though - it has many
+interesting features which were built specifically to the clients requirements.
+
+I worked closely with the design agency to design and build features such as
+<em>fit my 4x4</em> (system for tailoring the products to the visitors vehicle),
+<em>online quote</em> and <em>find nearby stores</em> -
+which make it easy for visitors to browsing the website to find the equipment
+they are looking for.
+
 
 --------------------------------------------------------------------------------
 ## 2014:
