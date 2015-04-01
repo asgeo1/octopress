@@ -21,10 +21,9 @@ The website was built using <strong>Ruby on Rails</strong>, and makes use of the
 <a href="http://refinerycms.com">Refinery CMS</a> ruby gem to build out the
 <strong>Content Management System</strong> (CMS) component.
 
-<div style="width:320px; height:458px; background-image:url(/assets/images/ironman4x4-homepage.jpg); background-repeat: no-repeat; background-size:100%; display:inline-block; margin-right: 20px; vertical-align: top;">
-</div>
-
-<div style="width:320px; height:492px; background-image:url(/assets/images/ironman4x4-bullbars.jpg); background-repeat: no-repeat; background-size:100%; display:inline-block;">
+<div>
+    <img class="responsive-image" width="320" height="492" src="/assets/images/ironman4x4-homepage.jpg">
+    <img class="responsive-image" width="320" height="492" src="/assets/images/ironman4x4-bullbars.jpg">
 </div>
 
 This website required a lot more than just editing pages though - it has many
@@ -48,10 +47,9 @@ solutions, engaged me to build the iOS version of the
 <a href="https://itunes.apple.com/au/app/deakin-uni-open-day-2014-ar/id893009544?mt=8">Deakin Uni Open Day 2014 AR</a>
 app.
 
-<div style="width:320px; height:568px; background-image:url(/assets/images/deakin-ar-explore.jpeg); background-repeat: no-repeat; background-size:100%; display:inline-block; margin-right: 20px;">
-</div>
-
-<div style="width:320px; height:568px; background-image:url(/assets/images/deakin-ar-scan.jpeg); background-repeat: no-repeat; background-size:100%; display:inline-block;">
+<div>
+    <img class="responsive-image" width="320" height="568" src="/assets/images/deakin-ar-explore.jpeg">
+    <img class="responsive-image" width="320" height="568" src="/assets/images/deakin-ar-scan.jpeg">
 </div>
 
 The app uses a hybrid approach. Most of the screens were developed in native iOS,
@@ -71,10 +69,9 @@ AR features to navigate, learn, and enhance their Open Day experience.
 A client with an existing web-based product in the safety-permit space, needed
 a mobile client built for their flagship product.
 
-<div style="width:320px; height:548px; background-image:url(/assets/images/sage-fieldops-permit-list.png); background-repeat: no-repeat; background-size:100%; display:inline-block; margin-right: 20px;">
-</div>
-
-<div style="width:320px; height:548px; background-image:url(/assets/images/sage-fieldops-permit-detail.png); background-repeat: no-repeat; background-size:100%; display:inline-block;">
+<div>
+    <img class="responsive-image" width="320" height="548" src="/assets/images/sage-fieldops-permit-list.png">
+    <img class="responsive-image" width="320" height="548" src="/assets/images/sage-fieldops-permit-detail.png">
 </div>
 
 I worked with the client's development team (as the lead developer on the
@@ -101,10 +98,9 @@ I was hired as a subcontractor to built the system - building the app in
 <strong>HTML5 / Phonegap</strong> using <strong>jQuery Mobile</strong> and
 <strong>Backbone.js</strong>.
 
-<div style="width:320px; height:548px; background-image:url(/assets/images/isis-dms-load-list.png); background-repeat: no-repeat; background-size:100%; display:inline-block; margin-right: 20px;">
-</div>
-
-<div style="width:320px; height:548px; background-image:url(/assets/images/isis-dms-drop-detail.png); background-repeat: no-repeat; background-size:100%; display:inline-block;">
+<div>
+    <img class="responsive-image" width="320" height="548" src="/assets/images/isis-dms-load-list.png">
+    <img class="responsive-image" width="320" height="548" src="/assets/images/isis-dms-drop-detail.png">
 </div>
 
 The app captures data for each delivery, including the delivery signature
@@ -116,7 +112,8 @@ and <strong>Web Portal</strong> for tracking deliveries and viewing the
 Proof of Delivery - all developed in <strong>Ruby on Rails</strong> and deployed
 on <strong>Heroku</strong>.
 
-<div style="width:582px; height:377px; background-image:url(/assets/images/isis-dms-portal-load-details.png); background-repeat: no-repeat; background-size:100%; display:inline-block;">
+<div>
+    <img class="responsive-image" width="582" height="377" src="/assets/images/isis-dms-portal-load-details.png">
 </div>
 
 Later, I was engaged to help implement the system for a number of customers,
@@ -133,7 +130,8 @@ A different client in the transport industry needed a web-based Customer Portal
 built, so management could see KPIs, stats, etc on the current status of their
 fleet.
 
-<div style="width:610px; height:380px; background-image:url(/assets/images/arms-infoscreens-graphs.png); background-repeat: no-repeat; background-size:100%; display:inline-block;">
+<div>
+    <img class="responsive-image" width="610" height="380" src="/assets/images/arms-infoscreens-graphs.png">
 </div>
 
 I was hired as a subcontractor, and built a Web Portal using
@@ -154,10 +152,9 @@ truck.
 I was hired by a design agency to build the Endota Day Spa mobile website,
 working closely with their graphic designers.
 
-<div style="width:320px; height:548px; background-image:url(/assets/images/endota-spa-spa-detail.png); background-repeat: no-repeat; background-size:100%; display:inline-block; margin-right: 20px;">
-</div>
-
-<div style="width:320px; height:548px; background-image:url(/assets/images/endota-spa-spa-booking.png); background-repeat: no-repeat; background-size:100%; display:inline-block;">
+<div>
+    <img class="responsive-image" width="320" height="548" src="/assets/images/endota-spa-spa-detail.png">
+    <img class="responsive-image" width="320" height="548" src="/assets/images/endota-spa-spa-booking.png">
 </div>
 
 Using <strong>HTML5</strong>, <strong>jQuery Mobile</strong> and
@@ -180,7 +177,8 @@ for a while on my tablet.
 GCC is a tool for guitarists, allowing them to create their own chord charts,
 designed initially for the iPad and available on the <a href="https://itunes.apple.com/au/app/guitar-charts-creator/id497942050?mt=8">iOS App Store</a>.
 
-<div style="width:640px; height:468px; background-image:url(/assets/images/guitar-charts-creator-edit-chart.png); background-repeat: no-repeat; background-size:100%; display:inline-block;">
+<div>
+    <img class="responsive-image" width="640" height="468" src="/assets/images/guitar-charts-creator-edit-chart.png">
 </div>
 
 I built the app in HTML5 using <strong>jQuery Mobile</strong> and
