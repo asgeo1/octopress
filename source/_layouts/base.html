@@ -18,24 +18,7 @@
     <meta property="og:fb:app_id">
     <meta property="og:description" content="{{site.description}}">
     <link rel="alternate" type="application/rss+xml" href="{{site.subscribe_rss}}"/>
-    <!-- libraries -->
-
-    <!-- load stylesheets asychronously, so as not to block rendering of the page -->
-    <script>
-      var cb = function(stylesheet) {
-        var l = document.createElement('link'); l.rel = 'stylesheet'; l.href = '/stylesheets/' + stylesheet + '.css';
-        var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h);
-      };
-      var ls = function() {
-        cb('reset');
-        cb('styles');
-        cb('github');
-      };
-      var raf = requestAnimationFrame || mozRequestAnimationFrame ||
-          webkitRequestAnimationFrame || msRequestAnimationFrame;
-      if (raf) raf(ls);
-      else window.addEventListener('load', ls);
-    </script>
+    <link rel="stylesheet" media="screen" type="text/css" href="/stylesheets/styles.css"/>
 
     <!--
         I'm going to figure out some way around this later....
