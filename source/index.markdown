@@ -1,11 +1,13 @@
 ---
-title: Need to hire a freelance developer?
+title: Melbourne Freelance Software Developer for Hire
 layout: page
 date: 2013-06-18 07:41
 comments: true
 sharing: true
 footer: true
 ---
+Looking to hire a freelance developer?
+
 You've come to the right place then! I may be available at the moment and would
 <a href="mailto:{{site.email}}?subject=hello">love to hear from you</a>.
 
