@@ -29,8 +29,8 @@ I have the experience to help make your next software project a successful one.
 --------------------------------------------------------------------------------
 ## Why hire a freelancer?
 
-There are some significant advantages in hiring a freelancer for your next
-project:
+There are some significant advantages in hiring a freelance programmer for your
+next project:
 
  * Freelancers are a great way to get an additional resource for a particular
    project, without the on-going costs of full-time employees. When the project
