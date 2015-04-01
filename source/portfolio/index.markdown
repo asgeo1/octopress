@@ -32,7 +32,7 @@ interesting features which were built specifically to the clients requirements.
 I worked closely with the design agency to design and build features such as
 <em>fit my 4x4</em> (system for tailoring the products to the visitors vehicle),
 <em>online quote</em> and <em>find nearby stores</em> -
-which make it easy for visitors to browsing the website to find the equipment
+which make it easy for visitors browsing the website to find the equipment
 they are looking for.
 
 
