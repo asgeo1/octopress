@@ -36,8 +36,8 @@ def compile_sass(input_file, output_file, minify=True):
 
 def generate_site():
     try:
-        check_call(["rake", "clean"], stdout=PIPE)
-        check_call(["rake", "generate"], stdout=PIPE)
+        check_call(["bundle", "exec", "rake", "clean"], stdout=PIPE)
+        check_call(["bundle", "exec", "rake", "generate"], stdout=PIPE)
     except CalledProcessError:
         exit("Something went wrong generating the site with Octopress.")
 
