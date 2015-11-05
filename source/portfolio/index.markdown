@@ -12,6 +12,30 @@ Examples of work I have done for my clients (not including projects under NDA)
 --------------------------------------------------------------------------------
 ## 2015:
 
+### Fieldfolio Direct
+
+I developed the Fieldfolio Direct portal, as an add-on to their existing product.
+
+<a href="http://www.fieldfolio.com">Fieldfolio</a> is an ordering system originally
+for iOS, and I developed Fieldfolio Direct as their web-based client.
+
+Fieldfolio Direct allows users to publish their catalogue to the web, allowing
+their customers to order directly online.
+
+<div>
+    <img class="responsive-image" width="640" height="468" src="/assets/images/fieldfolio-direct-grid.png">
+</div>
+
+I built it as a component on top of their existing <strong>Ruby on Rails</strong>
+backend. In the process I updated the base application from Rails 3 to 4,
+as well as many other improvements.
+
+The design was done by an in-house designer, who I worked closely with to
+implement their design in the app as HTML and CSS.
+
+--------------------------------------------------------------------------------
+## 2015:
+
 ### Ironman 4x4 Website and Content Management System
 
 I was the developer for the <a href="http://www.ironman4x4.com">Ironman 4x4 website</a>,
