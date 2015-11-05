@@ -23,7 +23,7 @@ Fieldfolio Direct allows users to publish their catalogue to the web, allowing
 their customers to order directly online.
 
 <div>
-    <img class="responsive-image" width="640" height="468" src="/assets/images/fieldfolio-direct-grid.png">
+    <img class="responsive-image" width="640" height="383" src="/assets/images/fieldfolio-direct-grid.png">
 </div>
 
 I built it as a component on top of their existing <strong>Ruby on Rails</strong>
