@@ -7,7 +7,108 @@ sharing: false
 footer: true
 ---
 
-Examples of work I have done for my clients (not including projects under NDA)
+Examples of work I have done for my clients
+
+--------------------------------------------------------------------------------
+## 2016:
+
+### Woodlea Digital Screens
+
+Woodlea is a new suburb being built in the north west of Melbourne.
+
+I was hired as a subcontractor to develop some interactive touch-screen
+software, to help show-off Woodlea to potential buyers.
+
+There were two digital screen applications built, one running on a 1080p TV,
+and another running on a 4K TV - both connected to PC hardware running Windows
+10. (which has great support for touch)
+
+The 4K project, features a massive map of Woodlea, which the user can touch and
+interact with - allowing them to browse the various amenities which will be
+built.
+
+<div>
+    <img class="responsive-image" width="640" height="406" src="/assets/images/woodlea-4k-display.jpg">
+</div>
+
+The 1080p project, is very similar to a digital brochure in concept - it
+operates as an interactive, touch-enabled app.
+
+<div>
+    <img class="responsive-image" width="640" height="491" src="/assets/images/woodlea-1080p-display.jpg">
+</div>
+
+Both projects use the same software stack. <strong>AngularJS</strong> was used
+as the main framework. <strong>NW.js</strong> was used to package it, and to run
+it on the desktop.
+
+The design and concept was done by a 3rd party creative digital company, who I
+worked with to implement their design in the software.
+
+I architected the software, and alongside my team, built the project in quite a
+short timeframe - as we had to have it ready for Woodlea's opening day, which we
+achieved.
+
+--------------------------------------------------------------------------------
+## 2015 - 2016:
+### Survive Drive
+
+<a href="http://www.survivedrive.com">Survive Drive</a> is a driver safety
+application, designed to help manage the safety of trucks in the
+transport industry.
+
+I'm the lead architect and lead developer for this project, and have taken it
+from idea to conception, working closely with my client and their other mobile
+developer.
+
+Survive Drive features both a web application, as well as supporting mobile
+applications.
+
+<div>
+    <img class="responsive-image" width="320" height="351" src="/assets/images/survivedrive-roster.jpg">
+    <img class="responsive-image" width="320" height="628" src="/assets/images/survivedrive-employee.jpg">
+</div>
+
+I built the web application, as well as the API for use with their mobile
+clients.
+
+Survive Drive was built using <strong>Ruby on Rails</strong> and
+<strong>PostgreSQL</strong>. The project required a number of features to built:
+
+ - Driver / truck management
+ - Calendar / scheduling
+ - CSV import and background processing
+ - Email invitation system
+ - Fingerprint recognition
+
+--------------------------------------------------------------------------------
+## 2015:
+
+### LinkAssist
+
+<a href="http://www.linkassist.com.au">LinkAssist</a> was a project that I
+developed with one of my design agency clients.
+
+I worked as the front-end developer in this project, and did all of the
+front-end coding, working closely alongside their in-house developer who was
+building the backend.
+
+<div>
+    <img class="responsive-image" width="320" height="895" src="/assets/images/linkassist-home.jpg">
+    <img class="responsive-image" width="320" height="735" src="/assets/images/linkassist-notices.jpg">
+</div>
+
+LinkAssist is written using the Ruby on Rails framework, and as the front-end
+developer I worked with the <strong>SASS</strong>, <strong>Coffeescript</strong>,
+<strong>ERB</strong> and <strong>Ruby</strong> - implementing a design which was
+provided by a 3rd-party design agency.
+
+LinkAssist is designed for people with disabilities, so the front-end required
+special consideration so features and content would be as accessible as possible.
+
+The site makes use of the <strong>Bootstrap</strong> framework, particularly the
+*grid*, so the site could be built responsively - targeting multiple screen
+resolutions, including mobile devices.
 
 --------------------------------------------------------------------------------
 ## 2015:
