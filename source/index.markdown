@@ -16,18 +16,19 @@ You've come to the right place then! I may be available at the moment and would
 
 I'm a freelance web &amp; software developer, servicing the Melbourne area.
 
-I've been working as a programmer for over 10 years, completing projects in a
-multitude of industries (energy, transport, digital design to name a few).
+I've worked as a Melbourne-based contract programmer for over 10 years,
+completing projects in a multitude of industries (energy, transport, digital
+design to name a few).
 
 I've experienced all aspects of the software development lifecycle, from
-**gathering requirements**, **analysis and design** - through to **building**, **testing**,
-**deploying** and **supporting** software systems.
+**gathering requirements**, **analysis and design** - through to **building**,
+**testing**, **deploying** and **supporting** software systems.
 
 I have the experience to help make your next software project a successful one.
 
 
 --------------------------------------------------------------------------------
-## Why hire a freelancer?
+## Why hire a freelance developer?
 
 There are some significant advantages in hiring a freelance programmer for your
 next project:
