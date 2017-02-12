@@ -192,7 +192,8 @@ AR features to navigate, learn, and enhance their Open Day experience.
 ### SageFIELDOPs
 
 A client with an existing web-based product in the safety-permit space, needed
-a mobile client built for their flagship product.
+<a href="http://www.sagetechnology.com.au/permit-to-work-software">a mobile client built</a>
+for their flagship product.
 
 <div>
     <img class="responsive-image" width="320" height="548" src="/assets/images/sage-fieldops-permit-list.png">
@@ -216,7 +217,8 @@ server via a <strong>.NET JSON API</strong> which I also helped build.
 
 ### ISIS DMS
 
-A client in the transport industry needed a smartphone-based delivery system
+A client in the transport industry needed a
+<a href="https://itunes.apple.com/au/app/microlistics-dms/id968546592?mt=8">smartphone-based delivery system</a>
 built as a compliment to their existing Warehouse Management System.
 
 I was hired as a subcontractor to built the system - building the app in
