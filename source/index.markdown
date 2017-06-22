@@ -16,9 +16,9 @@ You've come to the right place then! I may be available at the moment and would
 
 I'm a freelance web &amp; software developer, servicing the Melbourne area.
 
-I've worked as a Melbourne-based contract programmer for over 10 years,
+I've worked as a Melbourne-based contract programmer for 15 years,
 completing projects in a multitude of industries (energy, transport, digital
-design to name a few).
+design and retail to name a few).
 
 I've experienced all aspects of the software development lifecycle, from
 **gathering requirements**, **analysis and design** - through to **building**,
@@ -65,7 +65,7 @@ next project:
 --------------------------------------------------------------------------------
 ## Skills and Experience
 
-I've worked as a web developer for over 10 years, working with many
+I've worked as a web developer for 15 years, working with many
 different technologies. I'm a good fit for many projects, as I have a breadth
 of knowledge across many technology stacks, but are also pretty focused around
 modern web development practices.
@@ -76,25 +76,28 @@ These days I tend to focus in a few key areas:
     clients utilizing the latest HTML5 technologies, to create cross-platform,
     native-feeling applications.
 
-    Using Javascript frameworks like [Backbone.js][1] or [AngularJS][2], and
+    Using Javascript frameworks like [React][1] or [AngularJS][2], and
     wrapping the application in [Phonegap][3]/[Cordova][4] I've been able to
     deploy the same app to both iOS and Android devices - which is a big win
     for my clients who are looking to not write the same app multiple times.
 
     I use best practices for Javascript development, utilising tools like
-    [Grunt][5], [Bower][6] and [Yeoman][7]. I'm a fan of [Ionic Framework][19]
-    and [jQuery Mobile][8], using them to quickly build HTML5 mobile user
+    [Gulp][5], [NPM][6] and [webpack][7]. I'm a fan of [Ionic Framework][19] and
+    [React Native][22] and use these tools to quickly build HTML5 mobile user 
     interfaces.
 
+    In the past, I've used frameworks like [Backbone.js][20] and [jQuery Mobile][21],
+    which are now considered outdated - but were the standard early on. So I've
+    been doing HTML mobile since it first became a thing!
+
  *  **Backend web development**. I've built many web apps over the years,
-    in different backend technologies:
+    in different backend technologies, but these days focus on:
 
     * [Ruby on Rails][9]
-    * [PHP][10] ([Zend Framework][18])
-    * [ASP.NET MVC][11]
+    * [PHP][10]
 
-    These days I'm often writing RESTful web APIs to communcate with my mobile
-    web applications.
+    I'm often writing RESTful web APIs to communcate with my mobile web
+    applications.
 
     I have good database experience and have worked with [PostgreSQL][12],
     [MySQL][13], [Oracle][14], [SQL Server][15], [MongoDB][16] and
@@ -106,23 +109,24 @@ Cheers - hope to hear from you!
 
 Adam George
 
-[1]: http://backbonejs.org
+[1]: https://facebook.github.io/react/
 [2]: http://angularjs.org
 [3]: http://phonegap.com
 [4]: http://cordova.apache.org
-[5]: http://gruntjs.com
-[6]: http://bower.io
-[7]: http://yeoman.io
+[5]: http://gulpjs.com
+[6]: https://www.npmjs.com
+[7]: https://webpack.github.io
 [8]: http://jquerymobile.com
 
 [9]: http://rubyonrails.org
 [10]: http://php.net
-[11]: http://www.asp.net/mvc
 [12]: http://www.postgresql.org
 [13]: http://www.mysql.com
 [14]: http://www.oracle.com/au/products/database/overview/index.html 
 [15]: http://www.microsoft.com/en-us/sqlserver/default.aspx
 [16]: http://www.mongodb.org
 [17]: http://www.parse.com
-[18]: http://framework.zend.com
 [19]: http://ionicframework.com
+[20]: http://backbonejs.org
+[21]: https://jquerymobile.com
+[22]: https://facebook.github.io/react-native/
