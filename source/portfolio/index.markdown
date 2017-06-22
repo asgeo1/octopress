@@ -10,6 +10,66 @@ footer: true
 Examples of work I have done for my clients
 
 --------------------------------------------------------------------------------
+## 2017:
+
+### Bluey Travel website rebuild
+
+I rebuilt the <a href="http://www.blueytravel.com.au/">Bluey Travel</a> website,
+using a *modern Wordpress stack* and best practices, by utilising the
+<a href="https://roots.io">Roots.io</a> stack.
+
+That's right, Wordpress development and hosting doesn't need to be the Wild
+Wild West of website development.
+
+<div>
+    <img class="responsive-image" width="640" height="425" src="/assets/images/bluey-travels-rebuild.jpeg">
+</div>
+
+My implementation featured best practices for development and deployment,
+producing a site that is very easy to update, maintain and support - a big win
+for the client, and makes my life a lot easier too :-)
+
+--------------------------------------------------------------------------------
+## 2016-2017:
+
+### Post Labels Plus
+
+Post Labels Plus, is a bespoke software created for my client, who needed
+something to help manage their retail business.
+
+It has features for managing products, sales and inventory, with hooks into eBay
+and Australia Post for importing/exporting shipping data, and with a mobile app
+on the way!
+
+<div>
+    <img class="responsive-image" width="640" height="406" src="/assets/images/my-post-labels.jpeg">
+</div>
+
+This app is built using <strong>Ruby on Rails</strong> and <strong>React</strong> frameworks,
+which I archetected and developed along with my team.
+
+--------------------------------------------------------------------------------
+## 2016-2017:
+
+### LifeAssist Online Needs Assessment Tool
+
+This project was for one of my design agency clients. They did the design work,
+and outsourced the programming to me.
+
+This is an online questionaire to assist people with working out what aged care
+support they may be entitled to.
+
+<div>
+    <img class="responsive-image" width="465" height="293" src="/assets/images/life-assist-online-needs.jpg">
+</div>
+
+It hasn't yet gone live on the <a href="http://www.lifeassist.org.au">lifeAssist</a>
+website, but I expect it to soon.
+
+This project is a pure Javascript app! Built using <strong>React</strong>, and
+using <strong>ES6</strong>, <strong>webpack</strong>, <strong>npm</strong> etc.
+
+--------------------------------------------------------------------------------
 ## 2016:
 
 ### Woodlea Digital Screens
