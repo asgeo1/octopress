@@ -10,6 +10,82 @@ footer: true
 Examples of work I have done for my clients
 
 --------------------------------------------------------------------------------
+## 2017-2018:
+
+### Algorithmic Forex Trading System
+
+I built an algorithmic trading system for a client, which trades forex pairs
+continuously whenever the market is open.
+
+The program runs 24x7 on a server, and makes it's trades via a broker, using the
+broker's <strong>protocol buffer</strong> API.
+
+The algorithm itself was designed by the client, but which I implemented in <strong>C++</strong>,
+as it needed to be as fast as possible in the decisions it makes.
+
+<div>
+    <img class="responsive-image" width="640" src="/assets/images/forex-program2.jpg">
+</div>
+
+I made the program run as a daemon, and created a separate web UI for it using
+<strong>Node.js</strong> and <strong>React</strong>, so the client could review
+the program's progress, make live adjustments to the algorithm parameters.
+It communicates to the daemon via websockets.
+
+It also featured SMS alerting using the <strong>Twillio API</strong> to alert
+for certain price events, and also features interactive graphs.
+
+--------------------------------------------------------------------------------
+## 2017-2018:
+
+### Mau - eCommerce mobile shopping app
+
+I built a mobile shopping app called <a href="https://itunes.apple.com/us/app/mau/id1327588128?mt=8&ign-mpt=uo%3D4">Mau</a>,
+which interfaces with my client's backend ordering & inventory system. (which I
+had also custom built for them in the past)
+
+This is a private shopping app - so it's only accessible by the customers of my
+client.
+
+<div>
+    <img class="responsive-image" width="320" src="/assets/images/mau-products-list-2.jpg">
+    <img class="responsive-image" width="320" src="/assets/images/mau-products-list-1.jpg">
+</div>
+
+This app has the ability to hook into multiple inventory systems, and so it's
+not tied to just one - you can actually power a number of eCommerce stores with
+it, allowing end-users to switch between stores.
+
+This app was built in <strong>React Native</strong> and uses the <a href="https://expo.io">Expo</a>
+framework. I also created the API to the backend systems using Ruby on Rails,
+and a system for inviting customers to use the app.
+
+--------------------------------------------------------------------------------
+## 2016-2018:
+
+### Sidekicker mobile application
+
+I've been working on the <a href="https://itunes.apple.com/au/app/sidekicker/id1031252842?mt=8">Sidekicker mobile app</a>
+for a few years now.
+
+I was not the original developer - the initial version was done in-house. But
+since then I've been contracted to work on the app, and have released nearly 20
+updates to the app over the last couple of years - each update adding new
+features, fixing issue etc.
+
+Along the way I have also improved the codebase, upgrading it to newer framework
+versions and build tools.
+
+<div>
+    <img class="responsive-image" width="320" src="/assets/images/sidekicker-joblist.jpg">
+    <img class="responsive-image" width="320" src="/assets/images/sidekicker-jobdetail.jpg">
+</div>
+
+The app is using <strong>Ionic Framework</strong>, <strong>AngularJS</strong>,
+<strong>Cordova</strong>, <strong>webpack</strong> and various Cordova plugins,
+some of which I wrote from scratch myself.
+
+--------------------------------------------------------------------------------
 ## 2017:
 
 ### Bluey Travel website rebuild
