@@ -36,3 +36,11 @@ THE SOFTWARE IS PROVIDED ‘AS IS’, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 #### If you want to be awesome.
 - Proudly display the 'Powered by Octopress' credit in the footer.
 - Add your site to the Wiki so we can watch the community grow.
+
+
+## Commands:
+
+    bundle exec rake generate       # Generates posts and pages into the public directory
+    bundle exec rake watch          # Watches source/ and sass/ for changes and regenerates
+    bundle exec rake preview        # Watches, and mounts a webserver at http://localhost:4000
+    python3 _deploy.py              # Deploy to AWS
