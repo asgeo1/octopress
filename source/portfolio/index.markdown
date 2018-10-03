@@ -63,8 +63,8 @@ support they may be entitled to.
     <img class="responsive-image" width="465" height="293" src="/assets/images/life-assist-online-needs.jpg">
 </div>
 
-It hasn't yet gone live on the <a href="http://www.lifeassist.org.au">lifeAssist</a>
-website, but I expect it to soon.
+It's live on the lifeAssist website here:
+<a href="http://calculator.lifeassist.org.au">Online Needs Assessment Calculator</a>.
 
 This project is a pure Javascript app! Built using <strong>React</strong>, and
 using <strong>ES6</strong>, <strong>webpack</strong>, <strong>npm</strong> etc.
