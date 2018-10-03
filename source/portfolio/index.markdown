@@ -27,10 +27,10 @@ as it needed to be as fast as possible in the decisions it makes.
     <img class="responsive-image" width="640" src="/assets/images/forex-program2.jpg">
 </div>
 
-I made the program run as a daemon, and created a separate web UI for it using
+I made the program run as a service, and created a separate web UI for it using
 <strong>Node.js</strong> and <strong>React</strong>, so the client could review
 the program's progress, make live adjustments to the algorithm parameters.
-It communicates to the daemon via websockets.
+It communicates to the service layer via websockets.
 
 It also featured SMS alerting using the <strong>Twillio API</strong> to alert
 for certain price events, and also features interactive graphs.
