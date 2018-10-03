@@ -72,31 +72,34 @@ modern web development practices.
 
 These days I tend to focus in a few key areas:
 
- *  **Mobile HTML5 development**. I've written several apps for
-    clients utilizing the latest HTML5 technologies, to create cross-platform,
-    native-feeling applications.
+ *  **Hybrid mobile development**. I've written several apps for
+     clients utilizing the latest hybrid/HTML5 technologies, to create
+     cross-platform, native-feeling applications.
 
     Using Javascript frameworks like [React][1] or [AngularJS][2], and
     wrapping the application in [Phonegap][3]/[Cordova][4] I've been able to
     deploy the same app to both iOS and Android devices - which is a big win
     for my clients who are looking to not write the same app multiple times.
 
-    I use best practices for Javascript development, utilising tools like
-    [Gulp][5], [NPM][6] and [webpack][7]. I'm a fan of [Ionic Framework][19] and
-    [React Native][22] and use these tools to quickly build HTML5 mobile user 
-    interfaces.
+    I'm also fan of [Ionic Framework][19] and [React Native][22] and have also
+    used these frameworks to quickly build mobile cross-platform apps.
 
-    In the past, I've used frameworks like [Backbone.js][20] and [jQuery Mobile][21],
-    which are now considered outdated - but were the standard early on. So I've
-    been doing HTML mobile since it first became a thing!
+ *  **Frontend development**. I've built quite a few front end apps over the
+    years, i.e. Javascript based web apps that are 100% Javascript and just
+    talk to their backends via an API.
+
+    I love using [React][1] for this, but have also used [AngularJS][2] in the
+    past.
+
+    I use best practices for Javascript development, utilising tools like
+    [NPM][6] and [webpack][7] and ES6. 
 
  *  **Backend web development**. I've built many web apps over the years,
     in different backend technologies, but these days focus on:
 
     * [Ruby on Rails][9]
-    * [PHP][10]
 
-    I'm often writing RESTful web APIs to communcate with my mobile web
+    I'm often writing RESTful web APIs to communcate with my mobile and web
     applications.
 
     I have good database experience and have worked with [PostgreSQL][12],
@@ -108,6 +111,8 @@ If you have a project you would like me to work on, please do get in contact.
 Cheers - hope to hear from you!
 
 Adam George
+
+<strong>P.S. If you want to see what I've been working on, please checkout my <a href="/portfolio">portfolio</a>.</strong>
 
 [1]: https://facebook.github.io/react/
 [2]: http://angularjs.org
