@@ -76,7 +76,7 @@ These days I tend to focus in a few key areas:
      clients utilizing the latest hybrid/HTML5 technologies, to create
      cross-platform, native-feeling applications.
 
-    Using Javascript frameworks like [React][1] or [AngularJS][2], and
+    Using Javascript frameworks like [React][1] or [Angular][2], and
     wrapping the application in [Phonegap][3]/[Cordova][4] I've been able to
     deploy the same app to both iOS and Android devices - which is a big win
     for my clients who are looking to not write the same app multiple times.
@@ -88,7 +88,7 @@ These days I tend to focus in a few key areas:
     years, i.e. Javascript based web apps that are 100% Javascript and just
     talk to their backends via an API.
 
-    I love using [React][1] for this, but have also used [AngularJS][2] in the
+    I love using [React][1] for this, but have also used [Angular][2] in the
     past.
 
     I use best practices for Javascript development, utilising tools like
@@ -98,6 +98,8 @@ These days I tend to focus in a few key areas:
     in different backend technologies, but these days focus on:
 
     * [Ruby on Rails][9]
+    * [Node.js][23]
+    * [Laravel][24]
 
     I'm often writing RESTful web APIs to communcate with my mobile and web
     applications.
@@ -115,7 +117,7 @@ Adam George
 <strong>P.S. If you want to see what I've been working on, please checkout my <a href="/portfolio">portfolio</a>.</strong>
 
 [1]: https://facebook.github.io/react/
-[2]: http://angularjs.org
+[2]: https://angular.io/
 [3]: http://phonegap.com
 [4]: http://cordova.apache.org
 [5]: http://gulpjs.com
@@ -135,3 +137,5 @@ Adam George
 [20]: http://backbonejs.org
 [21]: https://jquerymobile.com
 [22]: https://facebook.github.io/react-native/
+[23]: https://nodejs.org
+[24]: https://laravel.com
