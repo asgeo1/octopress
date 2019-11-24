@@ -15,7 +15,7 @@ Examples of work I have done for my clients
 ### FSHOP eCommerce System
 
 One of my retail clients wanted a
-<a href="https://fshop.com.au">custom-build eCommerce store</a>, that would tie
+<a href="https://fshop.com.au">custom-built eCommerce store</a>, that would tie
 in with the rest of their systems and publish their products online for
 customers to purchase.
 
@@ -23,10 +23,11 @@ customers to purchase.
     <img class="responsive-image" width="640" src="/assets/images/fshopcomau-shopfront.jpg">
 </div>
 
-Not wanting an off-the-shelf system, I designed and built a custom-built
-eCommerce solution, building ontop of the existing <strong>Ruby on Rails</strong>
-backend and creating a responsive <strong>React</strong> frontend, and utilizing
-<strong>Stripe</strong> for payments.
+Not wanting an off-the-shelf system, I designed and built a custom
+eCommerce solution, extending their existing <strong>Ruby on Rails</strong>
+backend and creating a responsive <strong>React</strong> frontend. The system
+utilizing <strong>Stripe</strong> for payments, and <strong>Netlify</strong> for
+frontend hosting, including CDN and pre-rending functionality.
 
 The system can actually power a number of eCommerce stores that the client has,
 which makes it a lot easier for the client to manage their business.
