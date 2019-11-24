@@ -265,4 +265,4 @@ Survive Drive was built using <strong>Ruby on Rails</strong> and
 ## 2012-2015
 
 For projects in 2015 and previous, please see my
-<a href="portfolio/older-projects">older projects</a>
+<a href="/portfolio/older-projects">older projects</a>
