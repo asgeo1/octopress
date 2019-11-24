@@ -7,7 +7,7 @@ sharing: false
 footer: true
 ---
 
-Examples of other, older projects I worked on in and before 2015.
+Examples of other, older projects I worked on in 2015 and earlier.
 
 Most of the technology used here is probably not what I would use today -
 things change quickly in software development, and most of this technology
